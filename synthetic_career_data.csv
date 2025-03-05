@@ -1,0 +1,1001 @@
+logical_reasoning,verbal_ability,quantitative_aptitude,technical_skills,personality_type,interest_area,academic_performance,preferred_work_environment,career_path
+7,1,10,8,Extrovert,Finance,5.32,Fieldwork,Manager
+4,8,6,9,Ambivert,Arts,5.89,Office,Software Engineer
+8,4,7,6,Introvert,Finance,5.03,Fieldwork,Data Scientist
+5,4,9,5,Ambivert,Finance,7.23,Office,Manager
+7,5,1,6,Extrovert,Arts,5.42,Fieldwork,Financial Analyst
+10,8,7,2,Extrovert,Finance,8.41,Remote,Artist
+3,5,8,4,Ambivert,Programming,6.18,Remote,Manager
+7,8,3,3,Extrovert,Finance,9.72,Office,Software Engineer
+8,10,4,7,Ambivert,Arts,9.36,Office,Data Scientist
+5,1,10,9,Extrovert,Science,6.45,Fieldwork,Artist
+4,10,6,5,Introvert,Finance,8.92,Fieldwork,Manager
+8,9,10,6,Introvert,Management,9.02,Remote,Data Scientist
+8,6,7,10,Extrovert,Programming,9.93,Fieldwork,Data Scientist
+3,3,4,2,Ambivert,Programming,7.99,Office,Data Scientist
+6,8,8,3,Introvert,Management,5.41,Office,Software Engineer
+5,9,5,3,Ambivert,Management,8.23,Office,Financial Analyst
+2,6,1,9,Extrovert,Finance,8.12,Office,Data Scientist
+8,7,4,7,Ambivert,Management,8.19,Office,Artist
+6,1,3,8,Introvert,Science,6.54,Remote,Manager
+2,5,9,10,Ambivert,Arts,9.3,Remote,Artist
+5,5,8,9,Ambivert,Management,9.8,Office,Software Engineer
+1,10,1,6,Extrovert,Management,6.09,Fieldwork,Software Engineer
+10,4,6,4,Extrovert,Science,5.44,Office,Artist
+6,6,9,1,Extrovert,Programming,5.97,Remote,Financial Analyst
+9,7,7,8,Introvert,Programming,9.1,Office,Software Engineer
+1,9,4,7,Introvert,Finance,8.38,Remote,Software Engineer
+10,1,1,2,Extrovert,Science,8.18,Remote,Artist
+3,6,2,8,Extrovert,Arts,7.01,Office,Software Engineer
+7,7,5,5,Introvert,Arts,7.89,Office,Financial Analyst
+4,3,5,7,Introvert,Science,6.54,Fieldwork,Financial Analyst
+9,8,8,4,Introvert,Arts,7.39,Remote,Financial Analyst
+3,5,6,5,Introvert,Programming,8.97,Fieldwork,Manager
+5,9,8,8,Extrovert,Arts,9.91,Office,Financial Analyst
+3,5,2,1,Introvert,Arts,9.66,Remote,Financial Analyst
+7,9,3,1,Extrovert,Science,9.67,Fieldwork,Manager
+5,10,6,4,Ambivert,Science,7.01,Fieldwork,Data Scientist
+9,4,10,3,Ambivert,Arts,7.34,Fieldwork,Software Engineer
+7,9,3,10,Introvert,Management,8.53,Office,Financial Analyst
+2,5,6,2,Ambivert,Science,9.61,Office,Software Engineer
+4,10,6,3,Ambivert,Finance,5.71,Office,Artist
+9,9,2,1,Ambivert,Finance,6.52,Remote,Software Engineer
+2,3,7,1,Introvert,Programming,5.7,Office,Manager
+10,4,2,6,Introvert,Arts,8.06,Remote,Software Engineer
+9,9,6,5,Ambivert,Management,6.53,Fieldwork,Software Engineer
+10,10,1,8,Extrovert,Programming,6.63,Fieldwork,Software Engineer
+5,6,3,2,Ambivert,Arts,5.35,Office,Data Scientist
+2,2,2,4,Introvert,Science,6.75,Fieldwork,Data Scientist
+4,7,7,8,Introvert,Finance,9.31,Office,Artist
+7,2,4,6,Introvert,Management,6.17,Remote,Manager
+8,2,8,1,Ambivert,Finance,8.48,Fieldwork,Software Engineer
+3,1,6,4,Extrovert,Science,8.15,Office,Software Engineer
+1,3,10,1,Introvert,Arts,9.32,Fieldwork,Software Engineer
+4,6,4,2,Introvert,Science,5.66,Fieldwork,Software Engineer
+2,8,5,5,Ambivert,Science,9.89,Office,Data Scientist
+8,9,9,8,Extrovert,Finance,7.91,Fieldwork,Artist
+4,7,7,8,Ambivert,Management,9.98,Fieldwork,Financial Analyst
+2,4,10,3,Introvert,Science,9.56,Fieldwork,Manager
+6,6,9,4,Extrovert,Finance,6.11,Fieldwork,Software Engineer
+6,5,7,10,Extrovert,Management,5.28,Remote,Artist
+10,8,1,6,Introvert,Arts,6.28,Fieldwork,Financial Analyst
+4,1,8,10,Extrovert,Arts,7.64,Fieldwork,Artist
+6,1,4,3,Extrovert,Programming,5.86,Office,Data Scientist
+2,6,3,2,Ambivert,Finance,5.84,Remote,Financial Analyst
+10,10,7,6,Introvert,Management,7.31,Office,Artist
+2,2,3,5,Introvert,Science,5.17,Office,Data Scientist
+10,5,8,10,Introvert,Arts,5.61,Office,Artist
+4,1,6,5,Introvert,Management,7.08,Remote,Artist
+8,7,5,10,Introvert,Finance,5.32,Office,Financial Analyst
+7,1,4,5,Extrovert,Programming,6.98,Office,Data Scientist
+9,4,8,10,Ambivert,Arts,7.37,Office,Software Engineer
+8,9,8,5,Introvert,Management,7.26,Fieldwork,Manager
+5,1,1,3,Ambivert,Management,9.35,Office,Financial Analyst
+2,4,9,7,Ambivert,Management,7.65,Remote,Data Scientist
+5,6,5,6,Extrovert,Finance,7.34,Remote,Artist
+8,6,4,4,Introvert,Finance,7.05,Fieldwork,Data Scientist
+10,8,6,2,Extrovert,Finance,9.09,Remote,Manager
+9,1,6,9,Introvert,Science,9.48,Remote,Manager
+9,7,2,1,Extrovert,Management,9.27,Fieldwork,Software Engineer
+1,1,8,4,Ambivert,Arts,8.37,Office,Software Engineer
+9,7,7,1,Introvert,Finance,5.69,Fieldwork,Manager
+7,3,1,6,Ambivert,Finance,6.38,Office,Financial Analyst
+9,8,5,4,Ambivert,Management,5.23,Office,Financial Analyst
+8,3,6,5,Extrovert,Finance,9.65,Remote,Artist
+1,1,4,5,Introvert,Science,8.3,Fieldwork,Software Engineer
+8,8,2,9,Ambivert,Science,8.73,Remote,Artist
+8,3,4,1,Extrovert,Finance,6.56,Remote,Software Engineer
+3,2,1,2,Introvert,Management,9.23,Office,Manager
+1,1,7,6,Introvert,Management,6.3,Remote,Financial Analyst
+8,3,2,5,Ambivert,Management,5.01,Fieldwork,Financial Analyst
+3,2,2,7,Introvert,Programming,6.88,Remote,Manager
+3,2,9,3,Ambivert,Finance,7.85,Remote,Artist
+1,6,5,3,Introvert,Management,7.39,Office,Artist
+5,1,2,10,Extrovert,Science,9.31,Fieldwork,Data Scientist
+10,2,9,2,Ambivert,Arts,5.53,Remote,Software Engineer
+7,6,9,3,Ambivert,Arts,7.77,Office,Artist
+10,3,1,10,Introvert,Management,7.56,Remote,Manager
+9,4,3,1,Introvert,Arts,6.41,Fieldwork,Artist
+7,1,4,5,Ambivert,Arts,9.11,Remote,Financial Analyst
+9,8,7,5,Introvert,Programming,8.76,Remote,Software Engineer
+8,7,10,7,Extrovert,Science,8.66,Office,Data Scientist
+2,7,4,4,Introvert,Science,9.38,Remote,Software Engineer
+1,3,2,3,Extrovert,Programming,8.61,Office,Financial Analyst
+7,10,7,1,Extrovert,Programming,6.16,Fieldwork,Financial Analyst
+7,10,6,8,Extrovert,Arts,8.53,Remote,Financial Analyst
+8,3,3,3,Extrovert,Finance,6.54,Fieldwork,Financial Analyst
+5,2,6,2,Extrovert,Arts,6.21,Fieldwork,Manager
+3,1,6,4,Introvert,Programming,5.37,Remote,Data Scientist
+8,7,5,3,Extrovert,Science,8.72,Office,Financial Analyst
+6,7,4,1,Introvert,Arts,8.56,Fieldwork,Financial Analyst
+3,2,10,3,Extrovert,Finance,6.17,Fieldwork,Artist
+1,7,1,2,Ambivert,Arts,8.75,Remote,Data Scientist
+3,8,10,8,Extrovert,Management,9.59,Remote,Software Engineer
+5,1,6,6,Ambivert,Arts,5.54,Remote,Data Scientist
+3,9,2,9,Extrovert,Programming,6.16,Remote,Data Scientist
+1,7,3,8,Extrovert,Science,8.75,Remote,Data Scientist
+5,3,8,10,Extrovert,Science,6.37,Remote,Financial Analyst
+10,8,10,3,Ambivert,Programming,8.12,Office,Financial Analyst
+7,7,6,5,Ambivert,Management,5.41,Fieldwork,Manager
+7,8,3,7,Extrovert,Programming,7.26,Office,Software Engineer
+9,6,7,5,Introvert,Arts,8.7,Office,Artist
+10,9,4,8,Extrovert,Programming,8.43,Remote,Data Scientist
+10,5,9,5,Ambivert,Programming,9.08,Fieldwork,Software Engineer
+3,3,5,1,Extrovert,Management,9.39,Office,Software Engineer
+7,3,3,5,Ambivert,Arts,8.87,Remote,Manager
+1,1,2,4,Ambivert,Finance,8.36,Remote,Artist
+4,8,2,6,Ambivert,Finance,5.16,Fieldwork,Data Scientist
+4,2,3,3,Extrovert,Science,7.67,Office,Artist
+5,3,2,5,Ambivert,Programming,5.19,Office,Manager
+7,8,4,2,Ambivert,Science,9.04,Office,Financial Analyst
+7,8,2,6,Extrovert,Management,6.6,Remote,Software Engineer
+4,4,10,6,Ambivert,Finance,7.81,Fieldwork,Data Scientist
+7,4,9,5,Extrovert,Programming,6.4,Fieldwork,Financial Analyst
+3,5,2,6,Ambivert,Management,8.91,Office,Manager
+6,6,9,7,Introvert,Management,9.43,Remote,Artist
+2,5,6,5,Introvert,Programming,6.99,Office,Software Engineer
+10,7,1,1,Ambivert,Management,9.31,Fieldwork,Data Scientist
+9,2,4,8,Introvert,Programming,6.34,Remote,Financial Analyst
+5,7,1,4,Extrovert,Programming,7.67,Office,Financial Analyst
+6,10,6,9,Introvert,Arts,9.29,Office,Software Engineer
+4,7,4,10,Ambivert,Science,6.63,Remote,Artist
+10,1,3,6,Ambivert,Management,9.77,Fieldwork,Manager
+7,7,3,1,Extrovert,Management,5.61,Remote,Artist
+9,5,9,3,Ambivert,Arts,5.09,Office,Artist
+7,3,6,3,Extrovert,Arts,9.52,Office,Artist
+1,3,9,10,Introvert,Arts,5.34,Office,Software Engineer
+1,4,5,4,Introvert,Finance,9.96,Office,Software Engineer
+9,2,2,6,Extrovert,Finance,9.76,Fieldwork,Manager
+9,2,8,7,Extrovert,Finance,5.69,Fieldwork,Artist
+4,1,5,10,Ambivert,Programming,7.69,Office,Software Engineer
+9,5,2,4,Introvert,Management,5.92,Fieldwork,Manager
+3,4,4,6,Extrovert,Science,7.14,Fieldwork,Manager
+7,10,9,1,Introvert,Programming,5.31,Fieldwork,Artist
+6,2,4,8,Extrovert,Management,6.12,Office,Data Scientist
+8,3,4,7,Introvert,Management,6.82,Remote,Artist
+9,7,2,9,Ambivert,Arts,7.19,Remote,Data Scientist
+5,7,6,3,Introvert,Arts,9.89,Remote,Manager
+1,4,2,2,Introvert,Programming,9.04,Office,Software Engineer
+3,5,7,1,Introvert,Arts,8.69,Fieldwork,Financial Analyst
+10,5,3,3,Introvert,Management,7.69,Fieldwork,Manager
+8,6,3,5,Introvert,Arts,9.2,Office,Software Engineer
+6,9,5,2,Ambivert,Finance,6.7,Office,Manager
+8,2,3,3,Extrovert,Arts,8.54,Remote,Artist
+9,5,2,4,Introvert,Management,9.97,Remote,Data Scientist
+4,3,10,7,Ambivert,Programming,6.57,Office,Manager
+1,4,9,3,Introvert,Science,8.37,Remote,Software Engineer
+1,10,2,9,Introvert,Arts,9.22,Fieldwork,Artist
+10,6,2,8,Extrovert,Management,9.58,Office,Financial Analyst
+4,8,8,4,Introvert,Science,8.59,Office,Artist
+7,1,9,1,Ambivert,Science,6.42,Fieldwork,Data Scientist
+2,10,7,1,Ambivert,Finance,6.63,Fieldwork,Artist
+3,8,3,1,Extrovert,Science,5.1,Fieldwork,Financial Analyst
+1,7,9,1,Introvert,Management,8.8,Remote,Software Engineer
+5,1,3,8,Ambivert,Management,5.21,Office,Manager
+1,2,5,3,Introvert,Arts,9.32,Remote,Data Scientist
+8,3,9,6,Introvert,Arts,5.59,Fieldwork,Financial Analyst
+1,1,3,3,Introvert,Arts,5.86,Remote,Data Scientist
+1,9,7,5,Extrovert,Science,7.38,Fieldwork,Artist
+2,8,1,7,Introvert,Science,8.69,Remote,Data Scientist
+2,2,4,2,Ambivert,Finance,5.7,Remote,Financial Analyst
+6,9,4,6,Introvert,Arts,7.2,Fieldwork,Manager
+7,7,7,6,Ambivert,Programming,7.41,Remote,Manager
+5,9,8,3,Introvert,Finance,6.06,Office,Data Scientist
+1,6,1,6,Ambivert,Programming,5.58,Remote,Software Engineer
+1,6,5,10,Ambivert,Science,9.18,Remote,Data Scientist
+3,4,7,10,Introvert,Finance,7.51,Office,Artist
+2,10,4,5,Introvert,Finance,5.07,Fieldwork,Manager
+5,10,4,2,Ambivert,Management,9.01,Office,Manager
+10,2,4,9,Extrovert,Science,9.9,Remote,Manager
+6,7,6,8,Introvert,Science,8.03,Fieldwork,Software Engineer
+7,5,7,3,Extrovert,Finance,7.52,Remote,Software Engineer
+4,6,2,8,Introvert,Science,9.39,Remote,Financial Analyst
+7,2,5,9,Introvert,Finance,9.76,Office,Data Scientist
+8,5,4,3,Introvert,Management,8.77,Office,Data Scientist
+1,10,3,3,Introvert,Finance,7.23,Fieldwork,Artist
+6,4,7,2,Extrovert,Science,7.96,Fieldwork,Manager
+8,9,6,8,Introvert,Science,8.5,Fieldwork,Software Engineer
+5,6,7,10,Ambivert,Finance,5.97,Remote,Artist
+4,2,5,1,Ambivert,Finance,7.24,Office,Artist
+2,1,6,8,Extrovert,Finance,9.15,Office,Software Engineer
+6,5,5,7,Introvert,Arts,8.27,Office,Data Scientist
+6,9,7,7,Ambivert,Science,7.06,Fieldwork,Manager
+1,6,2,3,Extrovert,Science,8.32,Office,Data Scientist
+9,10,5,1,Introvert,Arts,5.59,Office,Artist
+6,7,6,4,Ambivert,Finance,7.01,Office,Manager
+3,5,6,9,Ambivert,Management,8.97,Fieldwork,Financial Analyst
+4,10,5,5,Extrovert,Finance,6.1,Office,Artist
+4,6,10,1,Introvert,Finance,5.93,Fieldwork,Data Scientist
+3,5,7,5,Introvert,Arts,9.75,Office,Data Scientist
+10,9,10,8,Ambivert,Science,6.05,Office,Data Scientist
+3,6,8,8,Ambivert,Finance,6.3,Office,Software Engineer
+3,8,7,5,Ambivert,Science,9.85,Fieldwork,Artist
+4,2,5,9,Introvert,Programming,8.67,Fieldwork,Manager
+7,9,1,1,Extrovert,Science,8.5,Office,Data Scientist
+4,5,5,4,Extrovert,Management,9.26,Remote,Data Scientist
+9,7,10,3,Introvert,Management,5.58,Fieldwork,Software Engineer
+1,10,2,2,Extrovert,Finance,8.53,Fieldwork,Manager
+8,1,5,8,Ambivert,Science,7.52,Office,Artist
+7,10,5,7,Extrovert,Finance,9.15,Remote,Financial Analyst
+2,5,2,9,Extrovert,Arts,7.54,Office,Software Engineer
+8,10,5,2,Extrovert,Management,8.1,Fieldwork,Artist
+1,2,4,4,Ambivert,Finance,7.39,Fieldwork,Financial Analyst
+9,6,1,6,Introvert,Arts,7.39,Office,Data Scientist
+9,1,3,3,Ambivert,Finance,8.84,Office,Data Scientist
+2,3,1,8,Introvert,Science,8.14,Remote,Manager
+7,5,5,3,Introvert,Science,8.17,Remote,Financial Analyst
+10,4,4,2,Introvert,Science,7.25,Fieldwork,Data Scientist
+3,3,7,3,Extrovert,Science,7.66,Remote,Data Scientist
+7,10,5,6,Extrovert,Programming,8.73,Remote,Manager
+10,5,10,2,Introvert,Arts,9.13,Fieldwork,Artist
+9,8,4,8,Introvert,Arts,8.48,Fieldwork,Data Scientist
+4,4,2,1,Extrovert,Science,9.62,Fieldwork,Software Engineer
+1,1,4,7,Ambivert,Programming,9.1,Fieldwork,Software Engineer
+2,7,2,2,Introvert,Science,7.81,Office,Artist
+1,8,8,10,Ambivert,Programming,8.36,Fieldwork,Financial Analyst
+5,3,3,6,Extrovert,Science,9.63,Fieldwork,Manager
+5,6,9,2,Introvert,Management,8.1,Fieldwork,Software Engineer
+7,2,4,2,Ambivert,Management,9.12,Remote,Software Engineer
+9,7,6,10,Ambivert,Finance,8.44,Fieldwork,Artist
+9,8,10,8,Ambivert,Science,7.76,Office,Financial Analyst
+3,6,5,2,Extrovert,Arts,6.21,Office,Financial Analyst
+3,6,10,7,Extrovert,Finance,7.13,Fieldwork,Artist
+3,5,1,3,Ambivert,Management,9.84,Office,Software Engineer
+4,8,9,8,Ambivert,Science,8.29,Remote,Manager
+8,1,1,7,Extrovert,Finance,7.82,Fieldwork,Software Engineer
+6,10,8,8,Ambivert,Science,9.66,Office,Financial Analyst
+8,4,9,7,Ambivert,Management,7.93,Office,Software Engineer
+1,4,9,6,Extrovert,Finance,7.63,Fieldwork,Manager
+8,3,1,7,Ambivert,Management,8.8,Office,Data Scientist
+4,3,2,5,Ambivert,Programming,8.56,Fieldwork,Software Engineer
+1,4,1,7,Ambivert,Management,5.97,Office,Artist
+8,1,10,1,Extrovert,Science,7.36,Remote,Data Scientist
+4,2,2,1,Ambivert,Arts,7.36,Office,Artist
+6,9,10,9,Extrovert,Management,6.89,Office,Artist
+8,10,8,5,Extrovert,Arts,7.59,Fieldwork,Artist
+4,2,5,5,Introvert,Programming,7.07,Office,Software Engineer
+3,5,7,3,Introvert,Finance,6.0,Fieldwork,Financial Analyst
+9,9,2,5,Ambivert,Finance,7.06,Remote,Data Scientist
+3,9,8,3,Extrovert,Arts,5.36,Fieldwork,Manager
+9,8,6,9,Introvert,Finance,7.88,Fieldwork,Financial Analyst
+2,1,8,9,Ambivert,Management,9.27,Office,Software Engineer
+2,1,1,6,Introvert,Arts,8.63,Remote,Artist
+2,9,1,1,Introvert,Science,6.8,Fieldwork,Manager
+6,8,7,7,Extrovert,Management,5.44,Office,Data Scientist
+3,10,8,7,Extrovert,Management,6.01,Office,Financial Analyst
+9,9,3,10,Introvert,Management,7.73,Fieldwork,Financial Analyst
+4,7,5,10,Introvert,Science,6.04,Office,Manager
+1,3,1,4,Extrovert,Programming,7.72,Fieldwork,Software Engineer
+4,3,7,8,Ambivert,Finance,6.16,Fieldwork,Data Scientist
+1,2,5,6,Extrovert,Arts,9.24,Fieldwork,Manager
+5,5,8,4,Introvert,Programming,6.99,Remote,Artist
+4,3,8,4,Ambivert,Arts,6.23,Fieldwork,Data Scientist
+8,6,9,2,Introvert,Finance,9.06,Office,Financial Analyst
+8,2,7,2,Ambivert,Science,6.71,Remote,Manager
+7,3,1,4,Introvert,Management,5.56,Office,Financial Analyst
+3,5,3,5,Ambivert,Management,7.85,Remote,Financial Analyst
+1,1,8,8,Ambivert,Science,7.91,Remote,Financial Analyst
+1,1,3,6,Introvert,Programming,8.57,Remote,Software Engineer
+3,10,8,4,Ambivert,Programming,6.2,Remote,Financial Analyst
+6,9,1,7,Extrovert,Arts,7.22,Office,Artist
+7,7,5,8,Introvert,Science,6.41,Fieldwork,Artist
+6,1,4,2,Extrovert,Programming,5.4,Office,Data Scientist
+6,8,5,7,Introvert,Science,9.38,Fieldwork,Financial Analyst
+6,3,8,2,Ambivert,Finance,8.64,Office,Financial Analyst
+3,8,10,2,Ambivert,Management,6.51,Remote,Manager
+6,5,4,8,Ambivert,Management,8.0,Remote,Software Engineer
+8,1,4,2,Introvert,Management,6.01,Fieldwork,Data Scientist
+2,7,3,9,Extrovert,Science,9.45,Fieldwork,Financial Analyst
+5,5,7,1,Extrovert,Science,5.57,Office,Manager
+1,6,3,9,Introvert,Arts,5.02,Fieldwork,Software Engineer
+1,6,3,1,Introvert,Management,7.51,Office,Data Scientist
+5,8,10,10,Extrovert,Arts,7.92,Fieldwork,Data Scientist
+3,9,5,10,Extrovert,Management,7.89,Fieldwork,Financial Analyst
+4,2,5,2,Extrovert,Arts,5.27,Fieldwork,Data Scientist
+3,9,6,6,Extrovert,Arts,6.57,Remote,Manager
+1,10,8,6,Introvert,Finance,7.5,Remote,Data Scientist
+1,9,10,1,Introvert,Arts,6.08,Office,Artist
+5,10,6,7,Ambivert,Science,9.36,Fieldwork,Manager
+6,10,1,8,Extrovert,Arts,5.44,Office,Software Engineer
+3,7,8,2,Ambivert,Management,7.44,Fieldwork,Software Engineer
+9,1,8,8,Introvert,Arts,8.46,Remote,Financial Analyst
+5,7,9,9,Introvert,Programming,6.31,Remote,Financial Analyst
+8,10,9,6,Ambivert,Management,8.12,Fieldwork,Artist
+1,5,2,5,Extrovert,Programming,9.15,Fieldwork,Software Engineer
+5,6,2,9,Extrovert,Management,5.95,Remote,Software Engineer
+3,10,3,9,Extrovert,Science,9.59,Remote,Software Engineer
+1,7,1,1,Extrovert,Science,7.77,Office,Software Engineer
+4,5,4,3,Ambivert,Science,6.5,Remote,Data Scientist
+5,7,4,9,Ambivert,Programming,7.15,Fieldwork,Manager
+7,9,9,2,Introvert,Finance,6.56,Office,Manager
+1,3,9,4,Extrovert,Management,8.63,Fieldwork,Artist
+3,8,9,4,Extrovert,Science,8.98,Office,Data Scientist
+2,2,10,2,Extrovert,Management,9.16,Fieldwork,Software Engineer
+9,7,7,3,Ambivert,Programming,9.93,Remote,Software Engineer
+10,2,2,3,Extrovert,Finance,8.96,Fieldwork,Financial Analyst
+6,4,10,1,Ambivert,Programming,8.01,Office,Financial Analyst
+10,7,5,6,Extrovert,Management,6.7,Fieldwork,Artist
+3,3,4,8,Extrovert,Finance,7.72,Office,Software Engineer
+8,2,8,3,Introvert,Finance,5.21,Fieldwork,Artist
+8,10,2,5,Extrovert,Programming,8.72,Remote,Data Scientist
+2,7,6,1,Extrovert,Science,7.23,Remote,Manager
+6,1,5,10,Introvert,Management,5.1,Fieldwork,Software Engineer
+7,8,2,7,Ambivert,Arts,5.31,Fieldwork,Data Scientist
+2,3,10,10,Ambivert,Arts,6.94,Fieldwork,Software Engineer
+10,2,1,1,Extrovert,Programming,7.92,Office,Financial Analyst
+2,3,8,9,Ambivert,Management,7.32,Fieldwork,Artist
+10,5,2,8,Extrovert,Management,8.1,Fieldwork,Financial Analyst
+1,8,7,7,Introvert,Programming,7.4,Office,Manager
+8,10,9,10,Introvert,Management,8.31,Remote,Financial Analyst
+1,7,9,7,Extrovert,Science,6.1,Fieldwork,Software Engineer
+9,7,8,5,Introvert,Programming,5.56,Fieldwork,Financial Analyst
+6,7,10,5,Introvert,Science,7.98,Remote,Software Engineer
+7,8,9,5,Extrovert,Management,7.42,Remote,Manager
+10,1,2,1,Extrovert,Programming,5.13,Office,Financial Analyst
+7,4,6,8,Introvert,Management,6.9,Fieldwork,Artist
+10,6,4,1,Ambivert,Programming,5.53,Fieldwork,Artist
+3,9,4,4,Ambivert,Management,7.66,Office,Artist
+2,2,5,9,Extrovert,Science,6.98,Remote,Financial Analyst
+9,1,3,9,Extrovert,Science,8.07,Office,Financial Analyst
+8,10,1,5,Ambivert,Management,9.03,Remote,Financial Analyst
+10,2,8,4,Introvert,Programming,6.5,Office,Software Engineer
+7,7,5,3,Ambivert,Arts,9.81,Remote,Manager
+9,3,3,3,Ambivert,Science,7.68,Office,Artist
+4,10,10,5,Ambivert,Science,8.09,Remote,Software Engineer
+4,2,7,10,Ambivert,Arts,8.4,Remote,Artist
+1,7,7,1,Extrovert,Management,8.33,Remote,Software Engineer
+8,2,1,5,Extrovert,Programming,7.55,Remote,Financial Analyst
+3,3,9,6,Introvert,Management,7.14,Remote,Artist
+7,7,2,7,Introvert,Finance,5.27,Fieldwork,Financial Analyst
+2,4,5,9,Introvert,Science,5.11,Remote,Artist
+2,1,5,3,Introvert,Finance,6.79,Fieldwork,Data Scientist
+7,5,8,2,Ambivert,Science,6.67,Remote,Software Engineer
+6,9,8,3,Extrovert,Science,6.94,Fieldwork,Data Scientist
+3,8,7,9,Extrovert,Finance,5.69,Fieldwork,Software Engineer
+9,9,7,7,Introvert,Finance,8.69,Office,Manager
+10,10,6,9,Introvert,Management,9.28,Remote,Artist
+6,9,6,2,Ambivert,Finance,9.69,Office,Manager
+10,7,9,5,Ambivert,Management,7.46,Office,Manager
+10,4,6,4,Introvert,Management,8.5,Remote,Software Engineer
+6,5,2,2,Extrovert,Management,9.28,Office,Data Scientist
+1,1,2,9,Extrovert,Science,7.09,Remote,Financial Analyst
+4,1,5,9,Extrovert,Science,6.55,Office,Software Engineer
+10,3,4,6,Introvert,Finance,9.68,Remote,Financial Analyst
+6,8,2,6,Extrovert,Science,7.58,Remote,Manager
+6,2,3,8,Ambivert,Finance,7.49,Remote,Financial Analyst
+5,4,7,6,Ambivert,Science,5.89,Fieldwork,Data Scientist
+1,2,8,1,Introvert,Programming,5.54,Office,Software Engineer
+8,5,6,4,Ambivert,Programming,9.21,Fieldwork,Data Scientist
+5,9,5,7,Introvert,Finance,8.07,Office,Data Scientist
+5,1,1,2,Extrovert,Science,6.63,Office,Software Engineer
+7,5,8,9,Extrovert,Science,5.96,Office,Data Scientist
+4,9,3,8,Extrovert,Management,7.78,Fieldwork,Artist
+6,1,6,8,Ambivert,Arts,7.92,Office,Artist
+4,9,3,7,Introvert,Finance,6.03,Fieldwork,Artist
+3,8,7,4,Extrovert,Arts,9.26,Remote,Financial Analyst
+7,4,7,2,Introvert,Arts,5.42,Office,Data Scientist
+8,10,9,3,Extrovert,Finance,6.78,Office,Software Engineer
+4,5,5,6,Ambivert,Science,8.4,Remote,Software Engineer
+2,5,8,5,Ambivert,Finance,6.37,Remote,Financial Analyst
+10,6,10,8,Introvert,Arts,9.14,Office,Software Engineer
+3,7,10,6,Ambivert,Science,8.7,Remote,Artist
+1,8,8,6,Ambivert,Programming,8.95,Fieldwork,Data Scientist
+8,8,1,1,Introvert,Finance,5.6,Fieldwork,Software Engineer
+3,2,5,4,Extrovert,Finance,5.7,Office,Software Engineer
+10,9,3,5,Ambivert,Science,6.43,Fieldwork,Manager
+7,7,1,3,Introvert,Programming,7.59,Fieldwork,Manager
+10,4,4,9,Ambivert,Programming,8.74,Office,Manager
+5,4,8,1,Ambivert,Science,9.18,Remote,Data Scientist
+10,8,3,6,Ambivert,Management,8.52,Office,Artist
+5,4,10,6,Ambivert,Finance,9.64,Fieldwork,Artist
+7,6,2,10,Introvert,Finance,8.69,Office,Artist
+9,5,9,5,Introvert,Arts,6.53,Office,Data Scientist
+5,3,10,5,Introvert,Science,6.33,Fieldwork,Data Scientist
+1,10,5,10,Ambivert,Arts,8.48,Fieldwork,Manager
+10,2,7,5,Ambivert,Arts,5.96,Office,Software Engineer
+10,9,2,6,Ambivert,Programming,5.46,Fieldwork,Financial Analyst
+1,10,9,8,Introvert,Finance,7.66,Fieldwork,Financial Analyst
+2,9,9,2,Ambivert,Arts,9.11,Fieldwork,Software Engineer
+6,1,4,6,Extrovert,Programming,5.51,Fieldwork,Manager
+9,10,4,1,Ambivert,Science,8.96,Fieldwork,Software Engineer
+8,3,6,4,Extrovert,Arts,9.06,Fieldwork,Software Engineer
+5,8,10,10,Ambivert,Finance,7.41,Remote,Financial Analyst
+1,6,10,3,Introvert,Arts,5.29,Office,Manager
+7,5,10,9,Ambivert,Science,5.87,Fieldwork,Data Scientist
+5,5,6,3,Extrovert,Arts,8.54,Office,Financial Analyst
+6,6,1,6,Extrovert,Finance,8.56,Remote,Data Scientist
+7,7,9,1,Ambivert,Programming,9.49,Fieldwork,Manager
+3,1,2,6,Extrovert,Finance,7.91,Office,Software Engineer
+10,9,5,4,Extrovert,Programming,5.62,Fieldwork,Artist
+3,3,9,8,Introvert,Management,5.61,Fieldwork,Artist
+5,4,4,9,Ambivert,Finance,8.61,Fieldwork,Manager
+6,10,3,4,Ambivert,Finance,5.92,Fieldwork,Artist
+9,1,7,10,Ambivert,Science,6.64,Fieldwork,Data Scientist
+5,10,6,10,Extrovert,Arts,7.44,Fieldwork,Artist
+1,3,8,6,Ambivert,Programming,5.12,Fieldwork,Manager
+4,2,3,1,Ambivert,Programming,6.24,Remote,Manager
+5,2,5,4,Introvert,Science,7.04,Remote,Data Scientist
+10,1,10,7,Introvert,Science,6.4,Fieldwork,Artist
+10,8,4,1,Introvert,Arts,5.68,Fieldwork,Artist
+5,3,4,8,Extrovert,Arts,8.64,Remote,Software Engineer
+7,3,4,10,Ambivert,Finance,9.07,Remote,Financial Analyst
+4,6,10,6,Introvert,Management,6.29,Remote,Manager
+1,8,8,5,Introvert,Arts,8.87,Fieldwork,Software Engineer
+5,9,6,10,Introvert,Science,6.93,Office,Manager
+7,9,3,9,Ambivert,Arts,7.53,Office,Software Engineer
+10,4,10,2,Ambivert,Programming,9.28,Office,Financial Analyst
+10,5,5,5,Ambivert,Management,8.75,Office,Software Engineer
+6,2,6,6,Extrovert,Finance,9.03,Fieldwork,Manager
+5,9,5,7,Extrovert,Programming,5.68,Office,Artist
+4,8,6,5,Introvert,Programming,5.35,Remote,Manager
+2,3,8,9,Ambivert,Management,9.47,Remote,Data Scientist
+4,9,7,1,Introvert,Finance,6.94,Office,Data Scientist
+10,3,5,7,Ambivert,Science,6.44,Remote,Data Scientist
+10,9,10,10,Ambivert,Finance,8.62,Fieldwork,Data Scientist
+3,2,6,7,Ambivert,Arts,9.18,Office,Financial Analyst
+10,10,4,4,Extrovert,Programming,9.31,Office,Artist
+1,9,9,9,Extrovert,Arts,6.58,Fieldwork,Artist
+8,8,4,5,Ambivert,Science,9.26,Remote,Manager
+5,9,1,4,Introvert,Arts,5.2,Fieldwork,Software Engineer
+4,5,7,7,Ambivert,Finance,5.25,Fieldwork,Manager
+8,2,7,4,Ambivert,Arts,8.12,Remote,Manager
+7,8,4,3,Introvert,Science,5.32,Fieldwork,Manager
+2,6,3,9,Ambivert,Science,6.62,Remote,Manager
+1,8,8,8,Introvert,Science,8.36,Remote,Artist
+4,5,5,1,Extrovert,Finance,6.69,Fieldwork,Software Engineer
+8,10,10,7,Extrovert,Science,5.9,Remote,Manager
+2,2,7,9,Introvert,Programming,6.41,Fieldwork,Artist
+3,6,4,8,Extrovert,Science,7.29,Remote,Manager
+1,5,4,8,Extrovert,Arts,7.38,Office,Data Scientist
+1,5,8,6,Introvert,Arts,8.92,Remote,Manager
+3,1,8,4,Extrovert,Arts,8.75,Remote,Manager
+5,2,2,8,Ambivert,Finance,7.28,Fieldwork,Financial Analyst
+3,8,2,3,Ambivert,Arts,9.23,Remote,Data Scientist
+1,3,3,9,Introvert,Finance,5.57,Office,Software Engineer
+1,10,3,2,Extrovert,Finance,6.28,Office,Manager
+8,3,1,2,Ambivert,Science,9.14,Remote,Software Engineer
+10,8,3,7,Ambivert,Programming,6.89,Remote,Data Scientist
+2,8,6,10,Extrovert,Science,9.91,Office,Manager
+3,2,8,4,Extrovert,Science,7.33,Fieldwork,Financial Analyst
+2,8,10,10,Ambivert,Finance,8.96,Office,Artist
+3,1,6,8,Ambivert,Finance,7.01,Office,Financial Analyst
+7,6,5,9,Introvert,Arts,7.12,Remote,Financial Analyst
+1,8,4,7,Introvert,Arts,6.91,Remote,Artist
+10,3,3,5,Ambivert,Science,8.6,Office,Artist
+8,8,4,8,Introvert,Management,7.74,Fieldwork,Artist
+10,1,7,4,Ambivert,Management,9.72,Office,Manager
+10,9,1,2,Ambivert,Arts,6.25,Office,Software Engineer
+10,9,7,6,Introvert,Management,5.5,Fieldwork,Software Engineer
+2,5,1,9,Introvert,Arts,6.97,Office,Artist
+3,10,2,1,Extrovert,Finance,8.08,Office,Financial Analyst
+9,4,4,10,Extrovert,Science,9.3,Remote,Data Scientist
+7,6,1,7,Extrovert,Programming,6.73,Fieldwork,Artist
+4,7,9,10,Ambivert,Science,8.27,Remote,Financial Analyst
+10,5,6,9,Introvert,Arts,6.75,Remote,Financial Analyst
+5,10,1,10,Ambivert,Arts,8.09,Fieldwork,Manager
+2,9,1,9,Introvert,Science,9.42,Fieldwork,Manager
+8,3,6,10,Ambivert,Arts,6.16,Office,Software Engineer
+4,7,4,3,Extrovert,Management,7.02,Remote,Software Engineer
+9,10,4,5,Extrovert,Management,9.97,Fieldwork,Data Scientist
+5,10,6,8,Extrovert,Arts,9.34,Remote,Data Scientist
+9,5,7,8,Ambivert,Arts,7.82,Remote,Data Scientist
+4,7,9,4,Introvert,Management,7.58,Fieldwork,Data Scientist
+10,2,10,1,Introvert,Arts,6.42,Office,Financial Analyst
+5,4,5,1,Extrovert,Arts,7.59,Remote,Financial Analyst
+9,2,9,4,Extrovert,Science,9.24,Fieldwork,Software Engineer
+8,7,4,6,Extrovert,Programming,8.43,Office,Manager
+3,2,10,8,Extrovert,Management,6.45,Remote,Manager
+1,1,2,6,Introvert,Science,6.01,Fieldwork,Artist
+3,9,3,9,Ambivert,Programming,6.33,Remote,Financial Analyst
+4,1,1,9,Ambivert,Arts,5.85,Fieldwork,Data Scientist
+2,8,6,2,Ambivert,Arts,5.48,Fieldwork,Data Scientist
+1,2,6,10,Ambivert,Science,7.1,Remote,Artist
+7,8,1,1,Extrovert,Arts,5.57,Remote,Manager
+8,3,3,2,Extrovert,Finance,5.86,Fieldwork,Data Scientist
+7,6,5,5,Extrovert,Science,7.74,Office,Manager
+5,3,3,4,Ambivert,Programming,5.82,Remote,Artist
+1,7,10,4,Extrovert,Science,5.32,Fieldwork,Manager
+7,10,3,9,Extrovert,Management,6.59,Fieldwork,Manager
+7,9,10,8,Introvert,Science,6.1,Office,Manager
+9,2,3,6,Introvert,Arts,7.58,Office,Data Scientist
+3,5,5,1,Extrovert,Arts,5.51,Office,Software Engineer
+9,6,5,2,Introvert,Finance,8.76,Remote,Financial Analyst
+1,4,4,6,Introvert,Finance,9.53,Fieldwork,Manager
+1,4,1,2,Extrovert,Finance,8.72,Fieldwork,Manager
+4,4,5,10,Extrovert,Programming,7.66,Fieldwork,Manager
+9,2,10,5,Extrovert,Finance,9.3,Office,Software Engineer
+6,4,5,5,Extrovert,Programming,8.47,Fieldwork,Artist
+3,1,4,6,Ambivert,Finance,5.05,Remote,Data Scientist
+1,6,6,6,Ambivert,Programming,6.97,Office,Software Engineer
+4,1,10,6,Extrovert,Science,9.25,Office,Manager
+9,10,4,2,Introvert,Science,6.73,Office,Software Engineer
+3,6,7,10,Extrovert,Arts,5.18,Office,Software Engineer
+9,1,7,3,Extrovert,Programming,8.73,Remote,Software Engineer
+7,6,2,6,Introvert,Management,9.01,Fieldwork,Artist
+4,10,3,8,Ambivert,Arts,5.8,Remote,Financial Analyst
+3,8,1,1,Extrovert,Science,7.69,Fieldwork,Data Scientist
+10,2,8,1,Extrovert,Programming,5.96,Remote,Artist
+5,2,9,2,Ambivert,Finance,8.6,Office,Artist
+5,4,4,6,Ambivert,Management,6.36,Office,Financial Analyst
+3,3,6,9,Introvert,Science,6.58,Remote,Artist
+9,4,9,4,Ambivert,Arts,9.22,Remote,Software Engineer
+4,7,6,3,Ambivert,Programming,7.38,Fieldwork,Software Engineer
+5,1,9,8,Ambivert,Management,8.35,Remote,Manager
+4,6,4,10,Introvert,Programming,7.01,Remote,Artist
+5,3,8,9,Ambivert,Finance,6.49,Fieldwork,Manager
+7,10,9,5,Ambivert,Arts,8.13,Fieldwork,Data Scientist
+9,7,4,9,Introvert,Programming,5.77,Fieldwork,Software Engineer
+7,10,5,2,Ambivert,Science,6.86,Remote,Data Scientist
+5,2,8,3,Ambivert,Arts,6.05,Fieldwork,Financial Analyst
+10,2,10,7,Introvert,Science,8.48,Office,Software Engineer
+10,4,6,7,Extrovert,Programming,9.72,Office,Data Scientist
+7,1,7,6,Introvert,Arts,9.98,Office,Financial Analyst
+10,3,3,6,Ambivert,Science,7.25,Remote,Data Scientist
+5,9,7,2,Ambivert,Finance,6.26,Office,Financial Analyst
+3,7,8,10,Ambivert,Finance,7.21,Remote,Financial Analyst
+7,7,10,6,Introvert,Programming,9.24,Remote,Software Engineer
+2,4,6,4,Ambivert,Arts,6.03,Office,Manager
+9,2,10,3,Ambivert,Management,9.76,Fieldwork,Financial Analyst
+10,4,9,2,Introvert,Arts,6.71,Remote,Financial Analyst
+10,6,6,1,Extrovert,Finance,9.93,Office,Software Engineer
+1,3,9,5,Extrovert,Science,9.19,Remote,Manager
+6,1,4,2,Ambivert,Management,9.04,Fieldwork,Artist
+7,8,8,2,Introvert,Programming,6.59,Fieldwork,Artist
+8,5,4,7,Ambivert,Management,5.04,Office,Manager
+10,5,2,8,Introvert,Programming,6.91,Remote,Data Scientist
+9,4,10,10,Introvert,Management,6.51,Remote,Software Engineer
+2,6,9,8,Extrovert,Programming,5.19,Remote,Manager
+10,3,5,4,Extrovert,Programming,7.53,Remote,Artist
+2,9,4,1,Introvert,Management,7.02,Office,Financial Analyst
+5,5,2,7,Ambivert,Management,8.17,Fieldwork,Artist
+5,3,1,1,Extrovert,Programming,8.11,Office,Financial Analyst
+6,1,7,4,Ambivert,Finance,5.6,Remote,Software Engineer
+3,10,6,8,Extrovert,Management,9.88,Remote,Financial Analyst
+8,6,2,2,Extrovert,Arts,5.93,Fieldwork,Manager
+1,2,8,6,Ambivert,Science,7.23,Remote,Financial Analyst
+6,3,4,6,Extrovert,Programming,7.44,Office,Data Scientist
+4,1,8,9,Extrovert,Programming,9.07,Office,Manager
+1,9,7,5,Ambivert,Science,5.5,Fieldwork,Software Engineer
+7,8,5,10,Extrovert,Finance,7.14,Office,Manager
+9,2,10,4,Extrovert,Science,8.14,Office,Data Scientist
+4,8,10,5,Extrovert,Management,6.08,Office,Software Engineer
+4,9,8,10,Ambivert,Science,8.14,Office,Artist
+6,1,9,5,Introvert,Programming,9.62,Remote,Data Scientist
+3,5,5,8,Ambivert,Science,9.99,Office,Software Engineer
+6,8,10,10,Introvert,Arts,5.16,Fieldwork,Financial Analyst
+7,2,5,8,Extrovert,Management,6.18,Fieldwork,Manager
+10,4,2,2,Introvert,Science,6.55,Office,Software Engineer
+10,7,5,7,Ambivert,Programming,7.0,Fieldwork,Manager
+3,3,3,8,Ambivert,Management,6.21,Office,Financial Analyst
+7,5,7,6,Extrovert,Programming,6.02,Fieldwork,Software Engineer
+3,8,10,5,Introvert,Finance,9.77,Fieldwork,Artist
+2,10,5,9,Extrovert,Arts,9.59,Office,Data Scientist
+10,3,8,3,Extrovert,Finance,5.23,Office,Software Engineer
+4,4,1,10,Ambivert,Arts,6.69,Remote,Financial Analyst
+8,9,3,4,Introvert,Science,7.03,Office,Software Engineer
+9,7,3,9,Introvert,Management,6.2,Office,Manager
+7,1,9,6,Introvert,Science,8.14,Remote,Software Engineer
+1,4,5,8,Introvert,Arts,8.2,Office,Artist
+3,4,9,7,Extrovert,Arts,9.25,Office,Software Engineer
+9,9,9,2,Extrovert,Arts,8.7,Remote,Data Scientist
+1,6,1,3,Ambivert,Programming,7.71,Office,Software Engineer
+9,9,2,1,Extrovert,Management,8.27,Office,Manager
+8,6,5,9,Extrovert,Science,6.37,Remote,Software Engineer
+1,6,4,7,Ambivert,Science,7.97,Remote,Artist
+6,5,10,1,Ambivert,Finance,7.45,Fieldwork,Financial Analyst
+5,5,9,3,Ambivert,Arts,5.67,Office,Software Engineer
+6,2,7,4,Extrovert,Arts,6.21,Fieldwork,Software Engineer
+10,8,6,4,Extrovert,Arts,6.46,Fieldwork,Data Scientist
+5,8,7,5,Ambivert,Science,9.62,Remote,Artist
+6,1,1,3,Ambivert,Finance,6.15,Office,Financial Analyst
+5,8,1,3,Ambivert,Programming,6.45,Office,Manager
+5,5,8,1,Extrovert,Management,6.85,Remote,Software Engineer
+4,2,2,7,Extrovert,Programming,8.32,Fieldwork,Financial Analyst
+3,2,10,10,Introvert,Science,5.59,Remote,Manager
+3,6,9,1,Extrovert,Arts,9.77,Office,Artist
+4,9,7,2,Extrovert,Management,9.33,Remote,Artist
+9,1,6,4,Extrovert,Science,7.89,Office,Financial Analyst
+2,6,1,4,Ambivert,Science,8.37,Fieldwork,Manager
+9,9,1,5,Extrovert,Science,5.08,Office,Artist
+1,8,2,2,Ambivert,Management,6.69,Fieldwork,Financial Analyst
+1,6,6,4,Introvert,Management,8.98,Fieldwork,Artist
+5,3,6,1,Introvert,Finance,5.39,Office,Artist
+6,8,2,2,Ambivert,Finance,6.41,Office,Artist
+6,9,1,1,Ambivert,Programming,7.93,Fieldwork,Data Scientist
+3,1,10,10,Ambivert,Management,6.28,Remote,Manager
+7,9,5,10,Extrovert,Management,9.67,Office,Financial Analyst
+9,6,5,4,Introvert,Management,5.66,Fieldwork,Financial Analyst
+10,6,2,4,Ambivert,Finance,8.99,Fieldwork,Manager
+8,4,6,7,Extrovert,Science,7.54,Remote,Manager
+6,1,9,10,Introvert,Arts,8.75,Office,Manager
+8,10,2,9,Extrovert,Finance,6.55,Fieldwork,Manager
+5,8,10,9,Introvert,Management,7.57,Remote,Software Engineer
+8,2,2,5,Extrovert,Finance,9.28,Fieldwork,Financial Analyst
+10,1,3,10,Introvert,Programming,7.33,Office,Software Engineer
+4,2,7,1,Introvert,Management,6.8,Remote,Artist
+10,1,6,1,Extrovert,Programming,7.68,Fieldwork,Artist
+8,1,8,6,Ambivert,Management,8.59,Remote,Financial Analyst
+10,9,8,2,Introvert,Finance,7.22,Office,Artist
+2,1,6,8,Ambivert,Science,9.69,Remote,Manager
+5,4,10,9,Extrovert,Arts,6.47,Office,Software Engineer
+9,10,3,4,Ambivert,Programming,7.38,Fieldwork,Manager
+4,6,3,5,Ambivert,Finance,8.78,Office,Artist
+6,7,1,8,Ambivert,Science,8.45,Fieldwork,Software Engineer
+1,2,7,3,Ambivert,Finance,9.32,Fieldwork,Manager
+9,6,5,5,Ambivert,Programming,9.98,Office,Financial Analyst
+1,7,4,3,Introvert,Arts,7.13,Fieldwork,Manager
+5,10,10,10,Introvert,Finance,5.56,Remote,Artist
+4,10,4,3,Introvert,Management,5.15,Fieldwork,Software Engineer
+3,2,4,3,Extrovert,Science,8.63,Office,Financial Analyst
+6,2,6,7,Ambivert,Finance,9.37,Remote,Software Engineer
+2,10,8,7,Introvert,Science,6.1,Remote,Financial Analyst
+3,7,8,7,Extrovert,Management,5.79,Fieldwork,Software Engineer
+5,1,5,10,Introvert,Arts,5.31,Fieldwork,Artist
+9,8,6,8,Introvert,Arts,9.11,Office,Financial Analyst
+2,3,4,5,Ambivert,Management,6.56,Remote,Data Scientist
+10,6,9,5,Extrovert,Science,7.01,Office,Software Engineer
+8,9,8,4,Ambivert,Finance,7.51,Fieldwork,Software Engineer
+2,6,10,7,Ambivert,Management,9.2,Remote,Manager
+5,9,10,10,Introvert,Programming,8.25,Office,Financial Analyst
+7,7,1,4,Ambivert,Science,8.08,Office,Data Scientist
+8,9,2,2,Extrovert,Arts,5.88,Office,Artist
+1,2,9,4,Ambivert,Management,7.57,Office,Manager
+6,8,8,8,Ambivert,Arts,8.58,Office,Data Scientist
+1,8,3,9,Ambivert,Science,9.87,Remote,Financial Analyst
+2,2,8,3,Introvert,Arts,6.01,Office,Data Scientist
+1,4,1,7,Extrovert,Management,5.05,Remote,Software Engineer
+5,7,10,9,Introvert,Science,5.38,Office,Software Engineer
+10,4,4,4,Introvert,Programming,6.88,Fieldwork,Manager
+9,4,3,10,Introvert,Management,9.1,Fieldwork,Financial Analyst
+6,6,6,3,Introvert,Finance,5.04,Office,Financial Analyst
+1,10,7,5,Introvert,Management,7.28,Fieldwork,Data Scientist
+1,6,4,1,Extrovert,Science,6.65,Remote,Manager
+2,10,7,3,Ambivert,Management,5.26,Office,Financial Analyst
+9,3,9,8,Introvert,Programming,7.25,Remote,Software Engineer
+3,9,2,8,Introvert,Programming,6.27,Office,Data Scientist
+1,10,3,4,Extrovert,Finance,6.76,Fieldwork,Artist
+5,2,5,2,Extrovert,Arts,8.53,Remote,Software Engineer
+7,6,3,8,Ambivert,Science,7.61,Fieldwork,Manager
+6,7,8,8,Extrovert,Science,5.62,Fieldwork,Financial Analyst
+1,9,10,10,Ambivert,Arts,9.81,Office,Software Engineer
+5,3,8,4,Introvert,Programming,8.18,Remote,Artist
+5,10,8,3,Introvert,Programming,8.83,Fieldwork,Artist
+6,3,9,2,Ambivert,Management,5.4,Office,Manager
+3,7,4,9,Extrovert,Finance,5.24,Office,Software Engineer
+5,4,5,1,Ambivert,Finance,5.1,Office,Data Scientist
+7,8,5,7,Extrovert,Finance,5.94,Fieldwork,Software Engineer
+5,7,8,5,Introvert,Management,7.07,Office,Artist
+5,5,7,8,Extrovert,Finance,9.68,Remote,Manager
+5,7,9,4,Ambivert,Arts,7.29,Remote,Manager
+10,3,8,7,Ambivert,Management,6.45,Fieldwork,Data Scientist
+10,2,2,5,Introvert,Arts,7.81,Remote,Manager
+3,6,10,5,Extrovert,Management,5.56,Office,Manager
+1,2,4,9,Extrovert,Finance,8.05,Fieldwork,Manager
+5,3,6,9,Extrovert,Arts,7.84,Office,Manager
+9,6,2,9,Introvert,Arts,8.96,Fieldwork,Manager
+1,5,7,6,Extrovert,Arts,9.93,Fieldwork,Artist
+3,8,3,6,Ambivert,Management,6.25,Office,Software Engineer
+4,9,3,5,Extrovert,Science,7.55,Remote,Financial Analyst
+1,3,2,9,Introvert,Finance,9.54,Remote,Manager
+1,10,8,10,Extrovert,Arts,8.93,Fieldwork,Financial Analyst
+8,3,6,8,Extrovert,Science,7.44,Office,Financial Analyst
+2,3,1,7,Ambivert,Finance,9.73,Office,Artist
+8,6,1,7,Extrovert,Finance,5.29,Fieldwork,Manager
+7,1,7,6,Ambivert,Arts,9.65,Remote,Financial Analyst
+10,7,8,5,Ambivert,Arts,5.25,Office,Manager
+10,1,5,4,Introvert,Management,7.74,Remote,Data Scientist
+2,5,5,3,Ambivert,Science,9.45,Remote,Data Scientist
+6,10,4,3,Ambivert,Science,6.31,Fieldwork,Data Scientist
+6,8,6,6,Introvert,Arts,7.36,Fieldwork,Financial Analyst
+3,4,6,4,Ambivert,Finance,6.62,Remote,Data Scientist
+2,5,3,6,Introvert,Arts,9.76,Office,Artist
+1,4,9,3,Extrovert,Finance,9.12,Office,Artist
+6,4,7,4,Introvert,Finance,8.55,Fieldwork,Financial Analyst
+5,8,1,9,Ambivert,Arts,7.94,Remote,Manager
+9,2,7,5,Introvert,Programming,9.1,Office,Software Engineer
+1,1,5,7,Ambivert,Science,6.96,Office,Manager
+7,3,5,10,Extrovert,Finance,7.24,Fieldwork,Manager
+5,9,2,2,Introvert,Finance,8.65,Remote,Manager
+5,4,4,5,Extrovert,Programming,6.79,Office,Manager
+2,10,6,9,Ambivert,Management,5.32,Fieldwork,Software Engineer
+3,5,10,3,Ambivert,Programming,5.37,Office,Data Scientist
+7,2,7,9,Extrovert,Programming,5.58,Office,Manager
+6,4,5,6,Introvert,Finance,9.35,Office,Artist
+2,2,9,4,Introvert,Science,7.36,Fieldwork,Financial Analyst
+6,2,3,7,Ambivert,Programming,8.56,Remote,Financial Analyst
+2,4,1,8,Extrovert,Management,6.96,Fieldwork,Artist
+2,6,4,6,Extrovert,Arts,6.29,Remote,Manager
+2,7,9,5,Introvert,Programming,6.74,Office,Software Engineer
+3,10,4,6,Introvert,Programming,8.97,Remote,Data Scientist
+2,3,2,5,Introvert,Management,8.13,Office,Financial Analyst
+4,3,10,8,Extrovert,Science,9.69,Office,Data Scientist
+9,10,5,1,Introvert,Programming,8.4,Fieldwork,Software Engineer
+6,6,3,7,Introvert,Programming,7.85,Office,Financial Analyst
+1,3,9,10,Ambivert,Science,8.05,Fieldwork,Data Scientist
+8,2,4,10,Introvert,Management,9.71,Remote,Software Engineer
+7,8,6,2,Introvert,Programming,8.94,Remote,Data Scientist
+10,5,2,9,Extrovert,Science,5.12,Office,Manager
+3,1,6,1,Extrovert,Programming,7.67,Fieldwork,Software Engineer
+1,3,3,10,Ambivert,Arts,8.44,Office,Data Scientist
+5,10,9,6,Introvert,Finance,8.74,Fieldwork,Manager
+4,8,2,9,Ambivert,Arts,6.07,Fieldwork,Manager
+10,4,9,1,Extrovert,Programming,9.34,Fieldwork,Software Engineer
+8,7,5,4,Ambivert,Management,9.78,Remote,Artist
+1,10,8,4,Extrovert,Finance,6.18,Fieldwork,Financial Analyst
+10,2,2,9,Ambivert,Arts,9.41,Remote,Software Engineer
+1,7,6,5,Ambivert,Science,5.48,Fieldwork,Manager
+4,5,3,5,Introvert,Management,5.28,Remote,Manager
+8,5,10,6,Ambivert,Arts,5.65,Remote,Software Engineer
+5,6,5,1,Introvert,Science,5.29,Remote,Artist
+2,9,8,1,Introvert,Programming,9.23,Office,Financial Analyst
+6,6,10,9,Introvert,Science,5.3,Fieldwork,Data Scientist
+5,8,1,3,Introvert,Arts,6.36,Office,Software Engineer
+2,7,5,4,Ambivert,Arts,5.52,Fieldwork,Financial Analyst
+3,9,3,1,Extrovert,Programming,6.48,Fieldwork,Financial Analyst
+9,4,4,9,Extrovert,Science,5.45,Office,Manager
+7,2,2,8,Extrovert,Science,8.34,Remote,Data Scientist
+7,7,9,2,Ambivert,Programming,5.67,Fieldwork,Software Engineer
+6,6,3,8,Introvert,Science,9.26,Remote,Manager
+8,1,2,7,Extrovert,Programming,9.09,Office,Manager
+4,9,10,6,Ambivert,Management,5.07,Remote,Artist
+8,9,9,1,Introvert,Arts,9.48,Fieldwork,Financial Analyst
+4,2,7,7,Extrovert,Management,5.14,Fieldwork,Software Engineer
+8,3,6,10,Introvert,Finance,6.2,Fieldwork,Software Engineer
+9,5,1,7,Extrovert,Finance,5.16,Office,Software Engineer
+3,5,5,9,Extrovert,Finance,6.68,Fieldwork,Manager
+3,1,3,1,Extrovert,Programming,7.57,Office,Artist
+2,8,1,2,Introvert,Science,8.98,Remote,Data Scientist
+10,8,4,9,Ambivert,Management,6.69,Fieldwork,Manager
+3,4,2,9,Introvert,Management,8.53,Fieldwork,Data Scientist
+3,7,2,6,Extrovert,Management,5.94,Fieldwork,Artist
+5,10,3,6,Introvert,Management,8.75,Remote,Financial Analyst
+5,3,8,4,Ambivert,Finance,6.18,Fieldwork,Software Engineer
+2,6,8,4,Introvert,Management,5.72,Office,Data Scientist
+10,10,7,5,Ambivert,Science,5.93,Remote,Manager
+6,10,6,3,Ambivert,Finance,5.91,Remote,Data Scientist
+5,9,9,1,Introvert,Management,7.56,Remote,Financial Analyst
+6,1,4,1,Extrovert,Programming,9.22,Remote,Software Engineer
+1,5,1,7,Ambivert,Arts,5.4,Remote,Data Scientist
+5,4,8,1,Introvert,Arts,8.53,Office,Financial Analyst
+9,8,7,1,Ambivert,Arts,8.27,Remote,Manager
+10,1,7,3,Extrovert,Finance,9.36,Fieldwork,Artist
+2,9,3,10,Introvert,Management,6.22,Remote,Manager
+1,6,4,4,Introvert,Finance,7.25,Remote,Software Engineer
+10,4,10,4,Introvert,Science,9.63,Remote,Manager
+9,9,9,2,Extrovert,Programming,8.3,Remote,Manager
+10,5,6,1,Ambivert,Programming,6.94,Remote,Manager
+9,5,5,3,Introvert,Arts,5.66,Office,Manager
+9,5,3,4,Ambivert,Arts,6.31,Office,Software Engineer
+6,1,9,3,Ambivert,Arts,7.91,Remote,Financial Analyst
+8,1,5,8,Extrovert,Management,8.59,Office,Data Scientist
+1,8,5,10,Introvert,Science,5.62,Fieldwork,Artist
+10,8,4,1,Ambivert,Science,8.0,Remote,Data Scientist
+4,6,4,2,Introvert,Science,7.75,Fieldwork,Data Scientist
+1,4,1,7,Introvert,Science,7.57,Fieldwork,Artist
+8,2,7,4,Extrovert,Arts,8.45,Remote,Software Engineer
+1,2,9,8,Introvert,Programming,9.19,Fieldwork,Artist
+3,9,3,3,Introvert,Arts,6.61,Fieldwork,Software Engineer
+4,5,2,6,Ambivert,Science,9.45,Fieldwork,Data Scientist
+8,4,3,9,Extrovert,Arts,5.8,Remote,Software Engineer
+6,10,1,1,Introvert,Science,5.87,Remote,Financial Analyst
+10,1,6,1,Ambivert,Finance,6.33,Fieldwork,Artist
+7,7,7,8,Extrovert,Programming,5.6,Remote,Financial Analyst
+8,3,2,3,Extrovert,Finance,6.15,Remote,Data Scientist
+2,6,8,5,Ambivert,Management,5.53,Fieldwork,Artist
+10,5,6,1,Ambivert,Arts,9.11,Remote,Data Scientist
+8,5,4,5,Ambivert,Management,5.69,Office,Financial Analyst
+3,5,5,6,Ambivert,Arts,8.74,Remote,Data Scientist
+7,1,8,8,Ambivert,Finance,5.24,Office,Artist
+3,1,3,3,Introvert,Science,9.74,Fieldwork,Artist
+7,3,3,3,Introvert,Science,8.56,Remote,Data Scientist
+2,10,4,10,Extrovert,Arts,5.03,Fieldwork,Artist
+10,4,1,9,Introvert,Science,8.82,Fieldwork,Artist
+6,5,9,4,Introvert,Finance,7.57,Fieldwork,Data Scientist
+3,2,8,4,Introvert,Science,8.9,Fieldwork,Financial Analyst
+3,8,8,7,Ambivert,Finance,7.61,Fieldwork,Artist
+9,2,10,2,Extrovert,Management,8.21,Remote,Artist
+7,9,6,8,Extrovert,Finance,8.93,Office,Artist
+5,2,7,6,Extrovert,Programming,7.03,Remote,Artist
+10,9,6,3,Extrovert,Programming,5.01,Remote,Data Scientist
+7,7,9,9,Introvert,Programming,9.25,Remote,Financial Analyst
+9,8,3,5,Introvert,Arts,6.9,Remote,Financial Analyst
+1,2,3,8,Ambivert,Arts,7.48,Office,Software Engineer
+7,7,3,7,Extrovert,Arts,5.04,Remote,Artist
+6,6,10,8,Introvert,Finance,7.46,Fieldwork,Artist
+10,4,3,7,Introvert,Arts,9.93,Remote,Software Engineer
+9,7,9,3,Ambivert,Management,6.39,Remote,Financial Analyst
+1,4,4,2,Ambivert,Programming,6.98,Office,Manager
+4,2,7,7,Ambivert,Finance,8.44,Office,Manager
+9,10,9,3,Introvert,Programming,9.07,Fieldwork,Financial Analyst
+4,7,7,3,Introvert,Arts,7.09,Remote,Artist
+10,8,9,2,Ambivert,Finance,6.55,Remote,Manager
+3,2,3,4,Extrovert,Science,9.69,Remote,Data Scientist
+9,5,4,8,Ambivert,Management,8.39,Fieldwork,Data Scientist
+2,1,8,1,Ambivert,Arts,5.6,Office,Software Engineer
+4,7,6,1,Ambivert,Arts,5.34,Fieldwork,Financial Analyst
+6,8,5,5,Ambivert,Management,7.42,Remote,Financial Analyst
+2,6,4,5,Introvert,Management,6.1,Office,Manager
+8,5,8,1,Extrovert,Science,6.27,Office,Artist
+8,6,1,6,Ambivert,Arts,9.39,Fieldwork,Financial Analyst
+1,2,9,1,Extrovert,Arts,5.45,Office,Manager
+3,1,1,5,Extrovert,Programming,8.58,Office,Manager
+10,7,8,9,Extrovert,Finance,6.36,Remote,Financial Analyst
+9,7,4,5,Ambivert,Finance,8.8,Remote,Manager
+5,10,9,6,Introvert,Programming,8.61,Office,Software Engineer
+6,10,5,8,Ambivert,Finance,5.04,Office,Software Engineer
+4,2,3,1,Extrovert,Management,7.55,Fieldwork,Financial Analyst
+10,2,9,2,Extrovert,Finance,5.7,Fieldwork,Artist
+2,1,9,9,Introvert,Finance,9.33,Office,Software Engineer
+8,10,4,3,Ambivert,Programming,9.36,Remote,Software Engineer
+6,8,4,6,Extrovert,Science,7.09,Office,Financial Analyst
+5,8,8,5,Introvert,Finance,7.22,Office,Data Scientist
+9,1,2,2,Extrovert,Finance,6.52,Remote,Manager
+1,8,9,7,Introvert,Science,8.58,Remote,Software Engineer
+5,9,6,4,Introvert,Programming,6.79,Fieldwork,Data Scientist
+6,4,9,1,Ambivert,Science,6.34,Fieldwork,Artist
+5,1,8,4,Extrovert,Programming,7.16,Fieldwork,Data Scientist
+6,1,7,6,Ambivert,Management,5.46,Fieldwork,Financial Analyst
+6,3,1,7,Extrovert,Programming,8.73,Remote,Artist
+7,5,3,7,Ambivert,Management,5.06,Office,Artist
+4,5,2,7,Extrovert,Management,8.22,Fieldwork,Data Scientist
+8,9,5,3,Ambivert,Programming,5.91,Fieldwork,Financial Analyst
+7,10,5,6,Introvert,Arts,6.16,Remote,Software Engineer
+9,2,5,8,Extrovert,Programming,8.18,Remote,Data Scientist
+7,2,4,4,Extrovert,Finance,9.96,Office,Software Engineer
+3,6,5,8,Introvert,Finance,8.89,Office,Data Scientist
+3,9,3,2,Ambivert,Arts,6.13,Remote,Software Engineer
+8,1,1,10,Extrovert,Management,5.88,Fieldwork,Data Scientist
+5,9,5,9,Extrovert,Arts,9.33,Fieldwork,Artist
+4,9,9,9,Ambivert,Finance,7.22,Fieldwork,Manager
+8,9,9,8,Introvert,Arts,5.69,Office,Artist
+6,5,4,10,Ambivert,Programming,9.31,Fieldwork,Software Engineer
+2,9,3,10,Ambivert,Arts,9.08,Fieldwork,Financial Analyst
+4,4,1,1,Ambivert,Management,9.92,Remote,Artist
+4,2,2,2,Extrovert,Programming,9.55,Fieldwork,Manager
+6,6,8,6,Introvert,Science,9.26,Remote,Software Engineer
+6,4,1,10,Introvert,Finance,5.26,Fieldwork,Artist
+1,6,8,5,Ambivert,Finance,5.52,Office,Data Scientist
+8,3,7,9,Extrovert,Arts,7.84,Fieldwork,Financial Analyst
+6,6,8,5,Ambivert,Programming,7.66,Fieldwork,Software Engineer
+3,2,6,2,Extrovert,Science,7.29,Remote,Artist
+9,2,9,10,Extrovert,Programming,6.98,Remote,Software Engineer
+2,9,3,4,Extrovert,Finance,7.16,Remote,Data Scientist
+8,7,10,9,Extrovert,Programming,7.85,Fieldwork,Manager
+10,3,4,1,Introvert,Science,5.01,Fieldwork,Artist
+3,1,6,1,Extrovert,Arts,6.3,Office,Software Engineer
+5,8,8,7,Extrovert,Management,7.59,Fieldwork,Software Engineer
+6,6,5,3,Ambivert,Programming,8.61,Office,Software Engineer
+10,7,3,10,Ambivert,Management,5.87,Remote,Manager
+6,9,6,2,Introvert,Finance,7.73,Remote,Software Engineer
+4,5,4,9,Ambivert,Arts,8.57,Remote,Financial Analyst
+3,1,9,3,Extrovert,Arts,7.22,Office,Financial Analyst
+4,10,3,2,Ambivert,Programming,5.14,Fieldwork,Software Engineer
+1,7,4,8,Introvert,Arts,7.25,Remote,Financial Analyst
+4,5,7,10,Ambivert,Programming,6.48,Fieldwork,Artist
+1,3,7,6,Ambivert,Programming,9.65,Fieldwork,Financial Analyst
+1,9,4,6,Introvert,Management,5.62,Remote,Software Engineer
+10,1,6,10,Introvert,Arts,8.26,Office,Data Scientist
+6,1,3,7,Extrovert,Programming,5.26,Fieldwork,Artist
+5,1,6,7,Ambivert,Management,7.23,Remote,Manager
+4,3,2,6,Extrovert,Science,7.77,Fieldwork,Software Engineer
+3,6,8,4,Ambivert,Management,6.49,Fieldwork,Manager
+1,10,2,9,Ambivert,Management,7.28,Fieldwork,Data Scientist
+6,3,7,6,Extrovert,Programming,5.82,Fieldwork,Manager
+2,8,9,4,Ambivert,Finance,6.52,Fieldwork,Software Engineer
+8,10,1,3,Ambivert,Finance,8.11,Office,Software Engineer
+10,2,8,4,Ambivert,Finance,6.51,Office,Data Scientist
+5,9,7,3,Introvert,Management,9.5,Remote,Software Engineer
+7,3,6,2,Extrovert,Programming,8.14,Office,Data Scientist
+10,5,6,5,Introvert,Arts,7.19,Office,Data Scientist
+2,10,6,2,Extrovert,Management,5.19,Office,Software Engineer
+8,8,9,6,Extrovert,Management,7.5,Fieldwork,Financial Analyst
+2,2,2,3,Ambivert,Programming,8.82,Fieldwork,Data Scientist
+4,6,1,6,Extrovert,Science,6.33,Remote,Software Engineer
+1,5,6,10,Introvert,Management,9.03,Remote,Financial Analyst
+5,10,10,9,Introvert,Science,6.26,Remote,Data Scientist
+9,9,8,1,Introvert,Science,9.12,Fieldwork,Financial Analyst
+1,5,3,6,Extrovert,Finance,5.43,Office,Artist
+9,2,10,9,Introvert,Programming,9.33,Office,Artist
+8,5,1,4,Extrovert,Science,7.5,Fieldwork,Financial Analyst
+6,4,9,2,Introvert,Programming,6.48,Remote,Data Scientist
+7,7,1,4,Introvert,Finance,6.33,Remote,Software Engineer
+3,6,3,1,Extrovert,Programming,7.16,Remote,Manager
+1,2,8,3,Introvert,Management,10.0,Fieldwork,Software Engineer
+5,5,3,10,Ambivert,Science,6.1,Remote,Manager
+2,7,4,9,Extrovert,Programming,5.52,Remote,Manager
+5,7,8,10,Extrovert,Arts,7.93,Fieldwork,Data Scientist
+8,5,1,5,Extrovert,Programming,7.44,Office,Financial Analyst
+9,9,6,6,Ambivert,Science,7.62,Fieldwork,Software Engineer
+2,4,1,3,Extrovert,Finance,8.33,Fieldwork,Financial Analyst
+3,3,1,5,Introvert,Finance,6.34,Fieldwork,Artist
+3,4,8,8,Introvert,Science,9.55,Fieldwork,Data Scientist
+1,5,4,6,Introvert,Management,7.18,Office,Data Scientist
+8,6,1,4,Extrovert,Management,5.65,Remote,Artist
+6,3,10,2,Introvert,Finance,8.71,Fieldwork,Software Engineer
+8,2,7,9,Extrovert,Finance,8.22,Office,Artist
+9,4,5,1,Introvert,Science,6.58,Remote,Software Engineer
+5,5,5,1,Ambivert,Management,8.11,Remote,Manager
+3,4,1,4,Ambivert,Finance,6.1,Remote,Data Scientist
+5,3,10,7,Ambivert,Management,7.22,Fieldwork,Software Engineer
+5,8,6,1,Ambivert,Finance,9.5,Fieldwork,Financial Analyst
+5,10,9,9,Extrovert,Programming,5.67,Remote,Financial Analyst
+3,4,9,4,Introvert,Arts,6.93,Remote,Data Scientist
+10,2,8,3,Ambivert,Programming,9.11,Remote,Artist
+4,2,5,1,Extrovert,Finance,9.85,Remote,Artist
+9,1,1,10,Ambivert,Arts,7.27,Remote,Software Engineer
+10,4,9,4,Ambivert,Arts,7.53,Remote,Artist
+9,10,1,9,Extrovert,Finance,7.86,Office,Data Scientist
+2,9,8,10,Extrovert,Finance,9.66,Remote,Software Engineer
+8,7,5,6,Introvert,Management,9.29,Fieldwork,Manager
+8,10,3,6,Introvert,Finance,5.85,Fieldwork,Artist
+7,7,7,1,Ambivert,Science,7.18,Fieldwork,Artist
+8,7,7,10,Ambivert,Finance,7.32,Remote,Software Engineer
+3,8,9,2,Introvert,Science,8.95,Fieldwork,Financial Analyst
+6,1,7,6,Introvert,Finance,8.01,Office,Artist
+1,10,3,2,Extrovert,Management,8.27,Remote,Data Scientist
+7,10,1,3,Introvert,Science,9.99,Fieldwork,Artist
+1,8,8,4,Introvert,Programming,5.37,Office,Manager
+9,4,3,5,Ambivert,Science,6.12,Office,Artist
+1,4,8,9,Introvert,Management,7.04,Fieldwork,Financial Analyst
+1,4,8,4,Ambivert,Science,6.74,Office,Artist
+7,6,5,9,Introvert,Finance,5.11,Fieldwork,Software Engineer
+2,7,1,10,Extrovert,Finance,5.46,Office,Artist
+5,6,10,3,Introvert,Management,8.4,Remote,Financial Analyst
+8,1,7,8,Introvert,Arts,9.4,Remote,Software Engineer
+8,8,10,1,Introvert,Finance,7.57,Remote,Data Scientist
+3,10,5,9,Ambivert,Programming,7.7,Remote,Software Engineer
+7,7,8,9,Extrovert,Management,6.28,Remote,Manager
+3,6,9,10,Introvert,Science,8.84,Fieldwork,Software Engineer
+6,6,7,2,Ambivert,Science,8.76,Remote,Data Scientist
+6,5,7,4,Extrovert,Programming,7.94,Remote,Artist
+3,6,1,8,Ambivert,Finance,6.06,Remote,Software Engineer
+7,9,4,7,Ambivert,Management,5.49,Remote,Software Engineer
+3,10,2,1,Extrovert,Programming,5.32,Office,Software Engineer
+8,9,2,5,Introvert,Finance,7.96,Remote,Software Engineer
+10,10,2,7,Ambivert,Management,9.13,Remote,Data Scientist
+4,8,4,4,Ambivert,Science,9.29,Fieldwork,Financial Analyst
+1,10,1,1,Introvert,Management,7.32,Office,Financial Analyst
+4,9,4,9,Introvert,Arts,8.92,Fieldwork,Software Engineer
+7,10,2,5,Extrovert,Management,9.73,Remote,Data Scientist
+4,8,5,2,Extrovert,Arts,6.38,Fieldwork,Data Scientist
+6,8,3,8,Extrovert,Management,6.99,Fieldwork,Software Engineer
+9,1,8,2,Introvert,Arts,9.66,Remote,Manager
+1,10,4,3,Ambivert,Science,6.69,Office,Software Engineer
+5,5,1,10,Ambivert,Finance,9.57,Office,Manager
+7,4,1,1,Extrovert,Arts,9.91,Fieldwork,Software Engineer
+1,2,10,2,Introvert,Arts,8.31,Remote,Manager
+4,8,3,7,Ambivert,Science,9.08,Fieldwork,Manager
+6,3,9,10,Extrovert,Arts,8.75,Fieldwork,Software Engineer
+2,4,7,2,Ambivert,Programming,8.5,Fieldwork,Manager
+10,7,2,6,Ambivert,Science,6.53,Remote,Artist
+5,10,9,3,Introvert,Programming,5.29,Remote,Financial Analyst
+10,9,10,4,Introvert,Science,6.72,Office,Data Scientist
+1,2,2,8,Ambivert,Arts,8.33,Remote,Manager
+6,3,3,3,Extrovert,Programming,5.51,Fieldwork,Manager
+6,4,10,10,Introvert,Arts,5.06,Fieldwork,Data Scientist
+4,10,2,6,Ambivert,Science,5.7,Office,Manager
+8,1,3,1,Introvert,Arts,8.58,Remote,Data Scientist
+4,7,6,7,Introvert,Programming,9.86,Fieldwork,Software Engineer
+8,2,9,8,Introvert,Programming,9.92,Office,Artist
+8,5,9,8,Ambivert,Arts,7.47,Office,Artist
+5,1,7,3,Extrovert,Management,9.35,Fieldwork,Financial Analyst
+4,3,3,10,Extrovert,Science,8.68,Fieldwork,Manager
+2,2,4,1,Extrovert,Science,7.51,Remote,Financial Analyst
+3,1,6,9,Introvert,Arts,7.86,Office,Software Engineer
+3,7,5,6,Ambivert,Management,5.69,Fieldwork,Artist
+4,5,2,9,Introvert,Programming,9.69,Office,Software Engineer
+4,1,6,7,Extrovert,Finance,6.76,Remote,Software Engineer
+10,6,3,1,Extrovert,Finance,7.23,Fieldwork,Manager
+5,5,8,1,Ambivert,Arts,8.36,Remote,Software Engineer
+4,3,2,6,Introvert,Management,6.67,Office,Artist
+10,7,1,5,Extrovert,Management,6.27,Remote,Financial Analyst
+8,10,9,9,Ambivert,Science,8.16,Remote,Artist
+6,9,3,2,Introvert,Programming,5.12,Office,Manager
+6,9,1,8,Introvert,Management,8.6,Remote,Artist
+8,9,7,5,Extrovert,Finance,7.57,Office,Data Scientist
+7,2,10,2,Extrovert,Programming,8.03,Fieldwork,Financial Analyst
+10,3,5,10,Introvert,Programming,8.16,Office,Data Scientist
+10,7,5,6,Introvert,Arts,7.64,Office,Data Scientist
+8,5,1,10,Extrovert,Management,7.91,Fieldwork,Manager
+2,2,9,8,Introvert,Arts,8.42,Office,Software Engineer
+9,3,7,4,Extrovert,Management,8.77,Fieldwork,Data Scientist
