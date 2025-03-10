@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI-Powered Investment Advisor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .form-container {
+            max-width: 400px;
+            margin: 0 auto;
+        }
+        .form-container input, .form-container select {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        .form-container button {
+            width: 100%;
+            padding: 10px;
+            background-color: #28a745;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .result {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #f8f9fa;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="form-container">
+        <h1>AI-Powered Investment Advisor</h1>
+        <form method="POST">
+            <label for="age">Age:</label>
+            <input type="number" id="age" name="age" required>
+
+            <label for="income">Income:</label>
+            <input type="number" id="income" name="income" required>
+
+            <label for="risk_tolerance">Risk Tolerance:</label>
+            <select id="risk_tolerance" name="risk_tolerance" required>
+                <option value="Low">Low</option>
+                <option value="Medium">Medium</option>
+                <option value="High">High</option>
+            </select>
+
+            <label for="stock_trend">Stock Trend:</label>
+            <input type="number" step="0.01" id="stock_trend" name="stock_trend" required>
+
+            <label for="bond_trend">Bond Trend:</label>
+            <input type="number" step="0.01" id="bond_trend" name="bond_trend" required>
+
+            <label for="gold_trend">Gold Trend:</label>
+            <input type="number" step="0.01" id="gold_trend" name="gold_trend" required>
+
+            <label for="crypto_trend">Crypto Trend:</label>
+            <input type="number" step="0.01" id="crypto_trend" name="crypto_trend" required>
+
+            <button type="submit">Get Recommendation</button>
+        </form>
+
+        {% if result %}
+        <div class="result">
+            <h2>Recommended Portfolio:</h2>
+            <p><strong>Stocks:</strong> {{ result.Stocks }}</p>
+            <p><strong>Bonds:</strong> {{ result.Bonds }}</p>
+            <p><strong>Gold:</strong> {{ result.Gold }}</p>
+            <p><strong>Crypto:</strong> {{ result.Crypto }}</p>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>
